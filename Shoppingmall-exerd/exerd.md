@@ -1,3 +1,3 @@
 ## exerd 다이어그램
 
-<img src='../img/exerd.PNG'>
+<img src='../img/exerd.png'>
