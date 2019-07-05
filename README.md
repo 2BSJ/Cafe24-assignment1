@@ -8,5 +8,4 @@
 
 1. usecase diagram 만들기 [usecase diagram 바로가기](https://github.com/2BSJ/Cafe24-assignment1/blob/master/Shoppingmall-usecase/usecasediagram.md)
 1. usecase 사용자 시나리오 만들기 [usecase scenario 바로가기](https://github.com/2BSJ/Cafe24-assignment1/blob/master/Shoppingmall-usecase/usecasescenario.md)
-1. erd 설계하기 [erd 바로가기](https://github.com/2BSJ/Cafe24-assignment1/blob/master/Shoppingmall-exerd/exerd.md)
-1. 데이터베이스 암호화 방식 [링크]()    
+1. erd 설계 및 암호화 방식 설계하기 [erd 바로가기](https://github.com/2BSJ/Cafe24-assignment1/blob/master/Shoppingmall-exerd/exerd.md)
