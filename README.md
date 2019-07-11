@@ -7,3 +7,4 @@
 7주 Web ui 확장한 구성( 사용자 시나리오를 반영한 ui)  
 
 #### 1주차 - 설계(사용자 시나리오,ERD) > 2019.07.01 ~ 2019. 07.05 [Wiki 정리](https://github.com/2BSJ/Cafe24-assignment1/wiki)
+#### 2주차 - API,TDD 설정 [프로젝트 바로가기](https://github.com/2BSJ/cafe24-shoppingmall)
